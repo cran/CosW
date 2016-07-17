@@ -1,0 +1,16 @@
+41548b78544c1a0cba8502c74341968f *DESCRIPTION
+a5f58ff3c259f7aa8f7961f7837ededf *LICENSE
+58d13d270090afecbfbaa8e35ad903c7 *NAMESPACE
+a7f9642e60decae4eb402dcf768327e7 *R/dcosw.R
+42bbcaaff99f2b75546e6a60f3b0c31f *R/hcosw.R
+adb4986a29559b90b0cd7f5428f6c557 *R/pcosw.R
+d9b5d949af1d7c9e7e9dc388c0c471b5 *R/qcosw.R
+3603c15dd8f305192294233f30351b05 *R/rcosw.R
+475607a6325273cfc2d2d1c1344a2616 *R/scosw.R
+5be3c7240d1a8b701a407a8256dc2a8e *README.md
+af411b648bb20c6130e66dc4cdf5f2bb *man/dcosw.Rd
+3d8f1e7f8e13cdddc8e0dc7e6f000dc6 *man/hcosw.Rd
+44ba392d2d55cae9855b8a4fd63bad91 *man/pcosw.Rd
+c239914160a8f7caa7d97db0cf41b4c9 *man/qcosw.Rd
+ded19bfe01e046638202feae7f4f69e1 *man/rcosw.Rd
+4c65672ee67dd6f1ba441ff6dfacce80 *man/scosw.Rd
